@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Milan Ples</h1>
 <h3 align="left">A passionate developer from Ireland</h3>
+<h3 align = "left" 🌱 I’m currently learning Dev Ops basics.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasdal&label=Profile%20views&color=0e75b6&style=flat" alt="kasdal" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasdal" alt="kasdal" /></a> </p>
 <h3 align="left">Languages and Tools:</h3>
