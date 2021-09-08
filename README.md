@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Milan Ples</h1>
+<h1 align="left">[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+I'm+Milan+Ples)](https://git.io/typing-svg)</h1>
 <h3 align="left">A passionate dev-ops wanabe from Ireland</h3>
 <h3 align = "left" 🌱 I’m currently learning Dev Ops basics.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasdal&label=Profile%20views&color=0e75b6&style=flat" alt="kasdal" /> </p>
