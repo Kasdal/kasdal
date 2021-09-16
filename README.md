@@ -67,7 +67,7 @@
   <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631781446/1_lUNmBw_oyS2ADWqZs4DLOA_ugbx7k.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
