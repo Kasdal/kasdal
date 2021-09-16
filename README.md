@@ -35,9 +35,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="PowerShell" />
       </a>
-      <br>TypeScript
+      <br>PowerShell
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
