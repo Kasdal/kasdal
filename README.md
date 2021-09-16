@@ -13,7 +13,7 @@
       <a href="#macropower-tech">
         <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631781017/java-logo_rrdcdc.jpg" width="48" height="48" alt="C#" />
       </a>
-      <br>C#&nbsp;(Core)
+      <br>Java
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
