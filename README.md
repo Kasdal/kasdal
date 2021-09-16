@@ -1,5 +1,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kasdal&label=Profile%20views&color=0e75b6&style=flat" alt="kasdal" /> </p>
+<hr>
 <p align="center">
   <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631811629/banner_knrb6i.png">
 </p>
