@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+I'm+Milan+Ples)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631811629/banner_knrb6i.png" width="350" title="hover text">
+  <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631811629/banner_knrb6i.png">
 </p>
 
 
