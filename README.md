@@ -41,7 +41,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631782677/kisspng-javascript-logo-html-comment-blog-5ae63c22d40699.0773573515250381148685_qcyoxz.jpg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
