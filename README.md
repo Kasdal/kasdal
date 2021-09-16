@@ -85,9 +85,9 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
+        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631781733/284-2843236_aws-logo-png-aws-logo-png-transparent-png_xsyzvh.jpg" width="48" height="48" alt="AWS" />
       </a>
-      <br>RHEL
+      <br>AWS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
