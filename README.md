@@ -91,9 +91,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631782947/png-clipart-ansible-devops-toolchain-software-deployment-triangle-logo-beta-angle-text_gqivmb.png" width="48" height="48" alt="Ansible" />
       </a>
-      <br>Powershell
+      <br>Ansible
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
