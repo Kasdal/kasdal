@@ -97,7 +97,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631781955/png-clipart-mysql-database-graphics-microsoft-access-logo-blue-web-design-thumbnail_be0mcj.png" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
