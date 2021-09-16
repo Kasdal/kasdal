@@ -145,6 +145,7 @@
   <a href="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
   </a>
 </p>
+<hr>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasdal&" alt="kasdal" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasdal&show_icons=true&locale=en" alt="kasdal" /></p>
