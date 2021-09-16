@@ -29,7 +29,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631781329/communityIcon_xagsn9nsaih61_owiefo.png" width="48" height="48" alt="BASH" />
       </a>
       <br>Jsonnet
     </td>
