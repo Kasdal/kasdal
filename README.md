@@ -5,7 +5,7 @@
   <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631811629/banner_knrb6i.png">
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasdal" alt="kasdal" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasdal" alt="kasdal" /></a> </p>
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
