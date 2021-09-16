@@ -115,9 +115,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
+        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631782260/jenkins-logo-11609365847mufysaivph_a690cg.png" width="48" height="48" alt="Jenkins" />
       </a>
-      <br>Thanos
+      <br>Jenkins
     </td>
   </tr>
 </table>
