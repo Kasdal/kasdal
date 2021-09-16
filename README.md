@@ -79,9 +79,9 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631781612/og-image-8b3e4f7d-blog-aspect-ratio_tzrpwu.png" width="48" height="48" alt="Terraform" />
       </a>
-      <br>Debian
+      <br>Terraform
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
