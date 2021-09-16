@@ -59,9 +59,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631783491/683-6833893_node-js-logo-png-transparent-png_y6bagl.jpg" width="48" height="48" alt="Node" />
       </a>
-      <br>Sass
+      <br>Node
     </td>
   </tr>
   <tr>
