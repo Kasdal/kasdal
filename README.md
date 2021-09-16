@@ -1,14 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+I'm+Milan+Ples)](https://git.io/typing-svg)
-
 <p align="center">
   <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631811629/banner_knrb6i.png">
 </p>
 
-
-
-<h3 align="left">A passionate dev-ops wanabe from Ireland</h3>
-<h3 align = "left" 🌱 I’m currently learning Dev Ops basics.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kasdal&label=Profile%20views&color=0e75b6&style=flat" alt="kasdal" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kasdal&label=Profile%20views&color=0e75b6&style=flat" alt="kasdal" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasdal" alt="kasdal" /></a> </p>
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
