@@ -125,7 +125,7 @@
   </tr>
 </table>
 <h2 align="left" id="macropower-tech">Operating systems i use</h2>
-
+>
 <p align="left">
   <a href="https://github.com/MacroPower/MacroPower">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="page views" />
