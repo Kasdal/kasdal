@@ -103,7 +103,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631782091/MongoDB-sm-logo_xzno4d.gif" width="48" height="48" alt="Mongo" />
+        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631782191/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cb8a0f32.3708278115541024755655_eb38fs.jpg" width="48" height="48" alt="Mongo" />
       </a>
       <br>Mongo
     </td>
