@@ -140,12 +140,9 @@
     <img alt="GitHub followers" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
   </a>
   <a href="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
   </a>
 </p>
 
-<p><img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="kasdal" /></p>
-<p><img align="right" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="kasdal" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasdal&" alt="kasdal" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasdal&show_icons=true&locale=en" alt="kasdal" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasdal&show_icons=true&locale=en&layout=compact" alt="kasdal" /></p>
