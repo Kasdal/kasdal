@@ -47,7 +47,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631783239/png-transparent-react-javascript-library-github-backbone-logo-symmetry-native_hqyrwe.png" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
