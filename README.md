@@ -23,7 +23,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631781186/1_ERojGMB35dNDZJtgdC-iFw_nklbbu.png" width="48" height="48" alt="Golang" />
       </a>
       <br>Go
     </td>
