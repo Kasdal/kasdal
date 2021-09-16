@@ -95,6 +95,18 @@
       </a>
       <br>Ansible
     </td>
+        <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
+      </a>
+      <br>Prometheus
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631782260/jenkins-logo-11609365847mufysaivph_a690cg.png" width="48" height="48" alt="Jenkins" />
+      </a>
+      <br>Jenkins
+    </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
         <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631781955/png-clipart-mysql-database-graphics-microsoft-access-logo-blue-web-design-thumbnail_be0mcj.png" width="48" height="48" alt="MySQL" />
@@ -106,18 +118,6 @@
         <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631782191/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cb8a0f32.3708278115541024755655_eb38fs.jpg" width="48" height="48" alt="Mongo" />
       </a>
       <br>Mongo
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
-      </a>
-      <br>Prometheus
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631782260/jenkins-logo-11609365847mufysaivph_a690cg.png" width="48" height="48" alt="Jenkins" />
-      </a>
-      <br>Jenkins
     </td>
   </tr>
 </table>
