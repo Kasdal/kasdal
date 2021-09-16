@@ -59,9 +59,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631783491/683-6833893_node-js-logo-png-transparent-png_y6bagl.jpg" width="48" height="48" alt="Node" />
+        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631807541/png-clipart-vagrant-logo-hashicorp-graphics-brand-vagrant-blue-angle_qmfty6.png" width="48" height="48" alt="Vagrant" />
       </a>
-      <br>Node
+      <br>Vagrant
     </td>
   </tr>
   <tr>
