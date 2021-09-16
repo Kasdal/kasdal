@@ -1,8 +1,9 @@
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kasdal&label=Profile%20views&color=0e75b6&style=flat" alt="kasdal" /> </p>
 <p align="center">
   <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631811629/banner_knrb6i.png">
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kasdal&label=Profile%20views&color=0e75b6&style=flat" alt="kasdal" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasdal" alt="kasdal" /></a> </p>
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
