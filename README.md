@@ -127,19 +127,19 @@
 <h2 align="left" id="macropower-tech">Operating systems i use</h2>
 
 <p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
+  <a href="">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="page views" />
   </a>
-  <a href="https://macropower.readthedocs.io/en/latest">
+  <a href="">
     <img alt="" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
   </a>
-  <a href="https://stackoverflow.com/users/4868262">
+  <a href="">
     <img alt="" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   </a>
-  <a href="https://reddit.com/u/macropower">
+  <a href="">
     <img alt="" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   </a>
-  <a href="https://github.com/MacroPower?tab=followers">
+  <a href="">
     <img alt="" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
   </a>
   <a href="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
