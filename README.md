@@ -148,7 +148,7 @@
 <hr>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasdal&" alt="kasdal" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kasdal&show_icons=true&locale=en" alt="kasdal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasdal&show_icons=true&locale=en" alt="kasdal" /></p>
 
 <!--
 **Kasdal/kasdal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
