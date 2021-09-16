@@ -85,7 +85,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631781733/284-2843236_aws-logo-png-aws-logo-png-transparent-png_xsyzvh.jpg" width="48" height="48" alt="AWS" />
+        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631781868/876681-middle_mbwbjs.png" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
     </td>
