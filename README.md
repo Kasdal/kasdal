@@ -123,7 +123,7 @@
 </table>
 <h2 align="left" id="macropower-tech">Operating systems i use</h2>
 <p><img align="center" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="kasdal" /></p>
-
+<p><img align="center" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="kasdal" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasdal&" alt="kasdal" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasdal&show_icons=true&locale=en" alt="kasdal" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasdal&show_icons=true&locale=en&layout=compact" alt="kasdal" /></p>
