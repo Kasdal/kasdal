@@ -53,9 +53,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631783383/72-728896_contact-us-get-a-quote-html-css-icon_wpgmwb.jpg" width="48" height="48" alt="HTML5" />
       </a>
-      <br>Bootstrap
+      <br>HTML5
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
