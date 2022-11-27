@@ -42,27 +42,7 @@
       </a>
       <br>Vagrant
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631781446/1_lUNmBw_oyS2ADWqZs4DLOA_ugbx7k.png" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631781612/og-image-8b3e4f7d-blog-aspect-ratio_tzrpwu.png" width="48" height="48" alt="Terraform" />
-      </a>
-      <br>Terraform
-    </td>
-    <td align="center"  width="96">
+      <td align="center"  width="96">
       <a href="#macropower-tech">
         <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631781868/876681-middle_mbwbjs.png" width="48" height="48" alt="AWS" />
       </a>
@@ -85,6 +65,26 @@
         <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631782260/jenkins-logo-11609365847mufysaivph_a690cg.png" width="48" height="48" alt="Jenkins" />
       </a>
       <br>Jenkins
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631781446/1_lUNmBw_oyS2ADWqZs4DLOA_ugbx7k.png" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631781612/og-image-8b3e4f7d-blog-aspect-ratio_tzrpwu.png" width="48" height="48" alt="Terraform" />
+      </a>
+      <br>Terraform
     </td>
   </tr>
 </table>
