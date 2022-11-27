@@ -20,12 +20,6 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631781256/1_i2skbfmDsHayHhqPfwt6pA_ebx1yg.png" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631781329/communityIcon_xagsn9nsaih61_owiefo.png" width="48" height="48" alt="BASH" />
       </a>
       <br>BASH
@@ -35,12 +29,6 @@
         <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="PowerShell" />
       </a>
       <br>PowerShell
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631807541/png-clipart-vagrant-logo-hashicorp-graphics-brand-vagrant-blue-angle_qmfty6.png" width="48" height="48" alt="Vagrant" />
-      </a>
-      <br>Vagrant
     </td>
       <td align="center"  width="96">
       <a href="#macropower-tech">
@@ -66,9 +54,7 @@
       </a>
       <br>Jenkins
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
+      <td align="center" width="96"> 
       <a href="#macropower-tech" >
         <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631781446/1_lUNmBw_oyS2ADWqZs4DLOA_ugbx7k.png" width="48" height="48" alt="Docker" />
       </a>
