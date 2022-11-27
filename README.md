@@ -14,12 +14,6 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631781017/java-logo_rrdcdc.jpg" width="48" height="48" alt="C#" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631781127/2000px-Python-logo-notext.svg__knnilz.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
@@ -41,24 +35,6 @@
         <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="PowerShell" />
       </a>
       <br>PowerShell
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631782677/kisspng-javascript-logo-html-comment-blog-5ae63c22d40699.0773573515250381148685_qcyoxz.jpg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631783239/png-transparent-react-javascript-library-github-backbone-logo-symmetry-native_hqyrwe.png" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631783383/72-728896_contact-us-get-a-quote-html-css-icon_wpgmwb.jpg" width="48" height="48" alt="HTML5" />
-      </a>
-      <br>HTML5
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -109,18 +85,6 @@
         <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631782260/jenkins-logo-11609365847mufysaivph_a690cg.png" width="48" height="48" alt="Jenkins" />
       </a>
       <br>Jenkins
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631781955/png-clipart-mysql-database-graphics-microsoft-access-logo-blue-web-design-thumbnail_be0mcj.png" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://res.cloudinary.com/dmepo58r1/image/upload/v1631782191/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cb8a0f32.3708278115541024755655_eb38fs.jpg" width="48" height="48" alt="Mongo" />
-      </a>
-      <br>Mongo
     </td>
   </tr>
 </table>
